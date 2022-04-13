@@ -10,7 +10,7 @@ I like to build creative designs from scratch and i experiment alot. I am quietl
 *   🖥️  See my portfolio at [Here](http://https://k3lson.github.io/porfolio/)
 *   ✉️  You can contact me at [n3lsonfree@gmail.com](mailto:n3lsonfree@gmail.com)
 *   🚀  I'm currently working on [Palindrome Checker](http://k3lson.github.io/Palindrome-Checker/)
-*   🧠  I'm learning Vue
+*   🧠  I'm learning Native React
 *   🤝  I'm open to collaborating on I'm interested and willing to collaborate in open source projects or personal work.
 *   ⚡️  I'm a big fan of space and astronomy.
 <a href="https://www.twitter.com/kevinfreeborn" target="_blank" rel="noreferrer">
