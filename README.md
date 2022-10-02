@@ -7,7 +7,7 @@ Web developer and Designer
 I like to build creative designs from scratch and i experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time
 
 *   🌍  I'm based in Abuja/Nigeria
-*   🖥️  See my portfolio at [Here](http://https://k3lson.github.io/porfolio/)
+*   🖥️  See my portfolio at [Here](https://k3lson.github.io/kelvinfree/)
 *   ✉️  You can contact me at [n3lsonfree@gmail.com](mailto:n3lsonfree@gmail.com)
 *   🚀  I'm currently working on [Palindrome Checker](http://k3lson.github.io/Palindrome-Checker/)
 *   🧠  I'm learning Native React
