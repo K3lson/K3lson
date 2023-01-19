@@ -1,16 +1,16 @@
 Hi 👋 My name is Kelvin Ogboriauphien
 ================================
 
-Web developer and Designer
+Web developer, Designer, Data Scientist and Digital Humanist
 --------------------------
 
 I like to build creative designs from scratch and i experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time
 
-*   🌍  I'm based in Abuja/Nigeria
+*   🌍  I'm based in Uppsala Sweden
 *   🖥️  See my portfolio at [Here](https://k3lson.github.io/kelvinfree/)
 *   ✉️  You can contact me at [n3lsonfree@gmail.com](mailto:n3lsonfree@gmail.com)
 *   🚀  I'm currently working on [Palindrome Checker](http://k3lson.github.io/Palindrome-Checker/)
-*   🧠  I'm learning Native React
+*   🧠  I'm learning Python and Data Science
 *   🤝  I'm open to collaborating on I'm interested and willing to collaborate in open source projects or personal work.
 *   ⚡️  I'm a big fan of space and astronomy.
 <a href="https://www.twitter.com/kevinfreeborn" target="_blank" rel="noreferrer">
