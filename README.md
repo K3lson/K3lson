@@ -9,13 +9,10 @@ I like to build creative designs from scratch and i experiment alot. I am quietl
 *   🌍  I'm based in Uppsala Sweden
 *   🖥️  See my portfolio at [Here](https://k3lson.github.io/kelvinfree/)
 *   ✉️  You can contact me at [n3lsonfree@gmail.com](mailto:n3lsonfree@gmail.com)
-*   🚀  I'm currently working on [Palindrome Checker](http://k3lson.github.io/Palindrome-Checker/)
-*   🧠  I'm learning Python and Data Science
+*   🚀  My Recent Project completed was [Life of Swedish Architect Leonie Giesendorf](https://k3lson.github.io/Leonie-Gesiendorf-Visualization/)
+*   🧠  I'm learning Go Lang
 *   🤝  I'm open to collaborating on I'm interested and willing to collaborate in open source projects or personal work.
 *   ⚡️  I'm a big fan of space and astronomy.
-<a href="https://www.twitter.com/kevinfreeborn" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/kevinfreeborn?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
-</a>
 <a href="https://www.github.com/K3lson" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/K3lson?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
                   
