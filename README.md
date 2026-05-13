@@ -1,16 +1,16 @@
 Hi 👋 My name is Kelvin Ogboriauphien
 ================================
 
-Web developer, Designer, Data Scientist and Digital Humanist
+Web developer, Designer, Data Scientist and Cloud Engineer
 --------------------------
 
 I like to build creative designs from scratch and i experiment alot. I am quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time
 
-*   🌍  I'm based in Uppsala Sweden
-*   🖥️  See my portfolio at [Here](https://k3lson.github.io/kelvinfree/)
+*   🌍  I'm based in Stockholm, Sweden
+*   🖥️  See my portfolio at [Here](https://kelvindev.io)
 *   ✉️  You can contact me at [n3lsonfree@gmail.com](mailto:n3lsonfree@gmail.com)
 *   🚀  My Recent Project completed was [Life of Swedish Architect Leonie Giesendorf](https://k3lson.github.io/Leonie-Gesiendorf-Visualization/)
-*   🧠  I'm learning Go Lang
+*   🧠  I'm currently learning DevOps 
 *   🤝  I'm open to collaborating on I'm interested and willing to collaborate in open source projects or personal work.
 *   ⚡️  I'm a big fan of space and astronomy.
 <a href="https://www.github.com/K3lson" target="_blank" rel="noreferrer"><img
